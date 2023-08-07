@@ -22,9 +22,4 @@ To use AI Color Palette Generator, follow these steps:
 - Run `streamlit run app.py` in your terminal from the project directory.
 - Open the app in your web browser using the URL provided in the terminal.
 
-## Contact
-
-If you want to contact me, you can reach me at `your-email@example.com`.
-
-## License
  
